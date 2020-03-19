@@ -1,0 +1,18 @@
+{
+  "name": "node-atdaqnavi-dio",
+  "version": "1.0.0",
+  "description": "Advantech IIoT iDoor DIO module",
+  "main": "bin/atdaqnavi-di.js",
+  "keywords": [
+    "DAQNavi",
+    "iDoor DIO",
+    "Advantech",
+    "IIoT"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Advantech-IIoT/node-atdaqnavi-dio"
+  },
+  "author": "Chic.Lee",
+  "license": "Apache-2.0"
+}
