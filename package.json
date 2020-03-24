@@ -1,6 +1,6 @@
 {
   "name": "node-atdaqnavi-dio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Advantech IIoT iDoor DIO module",
   "main": "bin/atdaqnavi-di.js",
   "keywords": [
