@@ -43,6 +43,7 @@ console.log(atdaqnavidio.get("PCM-27D24DI,BID#0"));
 
 
 ## History
+- 1.0.1 - March 2020 : Add Linux amd64 supported
 - 1.0.0 - March 2020 : Initial Release
 
 ## License
